@@ -1,30 +1,30 @@
-﻿IN_DEX,prOd_CODE,Qt,M
-0,PRD0903691,1,March
-1,PRD0900851,1,June
-2,PRD0903130,1,June
-3,PRD0900183,1,January
-4,PRD0900906,1,February
-5,PRD0900183,1,November
-6,PRD0904475,1,February
-7,PRD0900721,1,December
-8,PRD0900136,1,July
-9,PRD0900489,1,October
-10,PRD0900715,1,October
-11,PRD0903130,1,May
-12,PRD0901010,1,September
-13,PRD0902809,1,July
-14,PRD0903917,1,June
-15,PRD0900272,1,February
-16,PRD0900871,1,June
-17,PRD0901656,1,March
-18,PRD0902696,1,June
-19,PRD0902734,1,April
-20,PRD0901216,1,March
-21,PRD0904559,23,June
-22,PRD0904261,3,June
-23,PRD0903178,6,January
-24,PRD0901886,7,February
-25,PRD0900590,2,November
-26,PRD0903427,1,February
-27,PRD0900982,1,December
-28,PRD0903178,1,July
+﻿IN_DEX,prOd_CODE,Qt,M,supplier
+0,PRD0903691,1,March,906-478-8949SandyGunnarsson@dayrep.com
+1,PRD0900851,1,June,Abdul-NurMummarIsa@rhyta.com1 931 207 0839
+2,PRD0903130,1,June,OmeokachieIbeamaka@einrot.com434-509-2614
+3,PRD0900183,1,January,AnenechiChidi@armyspy.com+1 (205) 417-8095
+4,PRD0900906,1,February,AsiaWozniak@rhyta.com918-712-3469
+5,PRD0900183,1,November,276-225-1955SrenFLund@gustr.com
+6,PRD0904475,1,February,LieuThiThuTam@dayrep.com1 559 765 7836
+7,PRD0900721,1,December,RoxanneAndreyeva@armyspy.com678-829-8578
+8,PRD0900136,1,July,406-775-2696WilliamVOates@armyspy.com
+9,PRD0900489,1,October,ZakKelly@rhyta.com1 530 532 8397
+10,PRD0900715,1,October,SofiaTKarlsen@teleworm.us1 781 447 1763
+11,PRD0903130,1,May,973-445-5341SamuelGubrandsson@teleworm.us
+12,PRD0901010,1,September,914-745-6108ManchuSu@einrot.com
+13,PRD0902809,1,July,LovreGalic@gustr.com1 813 355 9476
+14,PRD0903917,1,June,JakobCJakobsen@einrot.com+1 (845) 858-7707
+15,PRD0900272,1,February,GregorBole@gustr.com505-828-4955
+16,PRD0900871,1,June,309-671-8852EllaLund@armyspy.com
+17,PRD0901656,1,March,985-814-7603JosephNTucker@rhyta.com
+18,PRD0902696,1,June,RobertWolf@fleckens.hu1 267 895 7462
+19,PRD0902734,1,April,JakobCJakobsen@einrot.com+1 (845) 858-7707
+20,PRD0901216,1,March,303-910-2058JaninaBazarova@superrito.com
+21,PRD0904559,23,June,423-538-4887TomasNavratil@dayrep.com
+22,PRD0904261,3,June,PhamThiBichMot@dayrep.com562-985-4582
+23,PRD0903178,6,January,815-270-7770HabteKifle@fleckens.hu
+24,PRD0901886,7,February,207-825-8634MarianaGomesSouza@superrito.com
+25,PRD0900590,2,November,718-501-0503KamilaPecinova@dayrep.com
+26,PRD0903427,1,February,NajaEnoksen@fleckens.hu715-562-7013
+27,PRD0900982,1,December,AlbincaKomavec@rhyta.com+1 (605) 204-6572
+28,PRD0903178,1,July,GenetFesahaye@armyspy.com1 978 460 9060
